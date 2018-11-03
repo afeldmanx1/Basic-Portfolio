@@ -1,0 +1,193 @@
+* {
+    font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+    margin: auto;
+}
+
+.header {
+    font-family: "Georgia", "Times", "Times New Roman", serif;
+    background: #ffffff;
+    border-style: solid;
+    border-width: 0px;
+    border-bottom-width: 1px;
+    width: 100%;
+    height: 60px;
+    margin-bottom: 2%;
+}
+
+.nav {
+    font-family: "Georgia", "Times", "Times New Roman", serif;
+    width: 960px;
+    margin-left: 10%;
+}
+
+.name {
+    font-family: "Georgia", "Times", "Times New Roman", serif;
+    background: #4aaaa5;
+    width: 150px;
+    height: 30px;
+    color: #ffffff;
+    text-align: center;
+    float: left;
+    margin: 0 auto;
+    overflow: auto;
+    padding: 15px;
+    margin-left: 0;
+    
+    
+}
+
+
+
+body {
+    background-image:  url("../images/background.png")
+}
+
+
+
+
+.contact {
+    float: right;
+    color: gray;
+    margin-right: 0;
+    padding: 10px;
+    height: 35px;
+    padding: 20px;
+
+    
+   
+}
+
+.portfolio {
+    float: right;
+    color: gray;
+    margin-left: 0%;
+    height: 35px;
+    padding: 20px;
+    
+  
+}
+
+
+.about {
+    float: right;
+    color: gray;
+    margin: auto;
+    height: 35px;
+    padding: 20px;
+
+}
+
+.container {
+    width: 895px;
+    /* Due to padding I had to decrease the width for equal alignment with the nav */
+    margin-left: 10%;
+    overflow: auto;
+    background: white;
+    padding: 25px;
+
+
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+#containerheader {
+    font-family: "Georgia", "Times", "Times New Roman", serif;
+    color: #4aaaa5;
+    margin-top: 5px;
+}
+
+img{
+    margin-right: 30px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.philly {
+float: left;
+position: absolute;
+color:white;
+padding-left: 84px;
+padding-right: 84px;
+padding-top: 10px;
+padding-bottom: 10px;
+text-align: center;
+background: #4aaaa5;
+margin-top: 105px;
+
+}
+
+.tennis {
+float: left;
+position: absolute;
+color:white;
+padding-left: 80px;
+padding-right: 80px;
+padding-top: 10px;
+padding-bottom: 10px;
+text-align: center;
+background: #4aaaa5;
+margin-top: 105px;
+margin-left: 236px;
+}
+
+.basketball {
+    float: left;
+position: absolute;
+color:white;
+padding-left: 66px;
+padding-right: 66px;
+padding-top: 10px;
+padding-bottom: 10px;
+text-align: center;
+background: #4aaaa5;
+margin-top: 105px;
+}
+
+.macbook {
+    float: left;
+    position: absolute;
+    color:white;
+    padding-left: 70.5px;
+    padding-right: 70.5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background: #4aaaa5;
+    margin-top: 105px;
+    margin-left: 236px;
+}
+
+.ps4 {
+    float: left;
+    position: absolute;
+    color:white;
+    padding-left: 57.5px;
+    padding-right: 57.5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background: #4aaaa5;
+    margin-top: 105px;
+}
+
+
+footer {
+    background: #666666;
+    padding: 20px;
+    border-color: #4aaaa5;
+    width: 100%;
+    border-style: solid;
+    border-width: 0px;
+    border-top-width: 5px;
+    text-align: center;
+    color: white;
+    bottom: 0;
+    left: 0;
+    height: 20px;
+    position: sticky;
+    margin-top: 20px;
+}
